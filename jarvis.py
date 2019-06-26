@@ -27,7 +27,7 @@ def wishMe():
     else:
         speak("Good Evening!")
 
-    speak("Welcome Gaurav")
+    speak("Welcome Gaurav sir")
     speak("I am Jarvis. Please tell me how may i help you")
 
 def takeCommand():
